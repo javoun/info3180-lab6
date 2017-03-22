@@ -1,0 +1,36 @@
+body{
+	background-color: #CCCCCC
+}
+
+span {
+	position:absolute;
+	left:100px;
+}
+
+
+input {
+
+	padding:10px; 
+
+}
+
+button {
+
+	position:absolute;
+
+	left: 200px;
+
+	font-family:Cusive;
+
+	background-color:#eeeeee;
+
+	padding:10px;
+
+	border-radius:50%;
+
+}
+
+.list{
+	border: groove;
+	background-color: ##d3ffce;
+}
